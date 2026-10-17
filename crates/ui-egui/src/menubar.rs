@@ -249,7 +249,7 @@ const LAYOUT: &[(&str, &[&str])] = &[
             "---",
             "app.website",
             "app.github",
-            "app.artcraft",
+            "app.officetools",
             "---",
             "app.whatsNew",
             "app.shortcuts",
